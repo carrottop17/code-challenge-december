@@ -1,0 +1,7 @@
+<div ng-repeat="user in gitHubArray" class="user-info">
+	<h3>{{user.login}}</h3>
+	<p><img ng-src="{{user.avatar_url}}" class="avatar"></p>
+	<!-- <div ng-init="gitHubUser(user.login)">
+		<p>{{gitHubUserArray.data[0].email}}</p>
+	</div> -->
+</div>

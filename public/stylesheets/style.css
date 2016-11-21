@@ -1,0 +1,53 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.main-title{
+	text-align: center;
+}
+.title{
+	background-color: #f7ce5b;
+	height: 300px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.search{
+	background-color: #000;
+	height: 200vh;
+	text-align: center;
+}
+
+.search-title{
+	text-align: left;
+}
+
+.search-bar{
+	padding-top: 30px;
+	color: #f7ce5b;
+}
+
+.go-button{
+	background-color: #f7ce5b;
+	color: #000;
+	border-radius: 0px;
+}
+.text-bar{
+	border-radius: 0px;
+}
+
+.left-column{
+	padding-left: 0px;
+}
+
+.avatar{
+	max-height: 100px;
+	max-width: 100px;
+}
+
+.user-info{
+	margin: 20px;
+}
